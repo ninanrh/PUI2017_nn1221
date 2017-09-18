@@ -2,4 +2,4 @@
 
 I created directory on CUSP compute called PUI2017.
 
-(PUI2017_nn1221/Screen Shot 2017-09-17 at 10.46.53 PM.png)
+(PUI2017_nn1221/Screen%20Shot%202017-09-17%20at%2010.46.53%20PM.png)
