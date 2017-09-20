@@ -35,5 +35,5 @@ Whenever I type the alias `pui2017`, the working directory will change to PUI201
 
 1. I give numpy as seed `np.random.seed()` 
 2. I generate random distribution with array called `ReprRand` 
-3. I generate more random numpy array
+3. I generate more random numpy array using `for` loop
 4. I plot the random rumber using matplotlib and gave the plot its title, axis labels, and caption.
