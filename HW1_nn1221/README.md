@@ -1,11 +1,14 @@
 # Homework 1
 
 This homework 1 located under PUI2017_nn1221 directory and consist of 3 assignments.
+
 I received help from Unisse to do this homework, especially to set up GitHub and to type the code/command.
 
 ### Assignment 1
-The first assignment is to continue the first lab and it is located in the different repository from this one, which is https://github.com/ninanrh/gittest_nn1221 
+The first assignment is to continue the first lab and it is located in the different repository from this one, which is https://github.com/ninanrh/gittest_nn1221
+
 I fork and mess with Unisse https://github.com/ninanrh/gittest_uc288 repository.
+
 Last, I fixed the conflicting merge.
 
 ### Assignment 2
