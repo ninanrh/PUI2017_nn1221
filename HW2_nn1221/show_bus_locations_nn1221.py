@@ -8,14 +8,17 @@ try:
 except ImportError:
     import urllib.request as urllib
 
-%pylab inline
-pl.rc('font', size=15)
+url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + sys.argv[1] + "&VehicleMonitoringDetailLevel=calls&LineRef=" + sys.argv[2]
 
-url = http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=84576710-519b-4\
-f26-9c52-0be20ed6b6ae&VehicleMonitoringDetailLevel=calls&LineRef=B52
-
-print (url)
 response = urllib.urlopen(url)
 data = response.read().decode("utf-8")
 data = json.loads(data)
 
+noofbus = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
+
+print ('Bus Line : {}'.format(sys.argv[2]))
+print ('Number of Active Buses : {}'.format(len(noofbus)))
+for i in range(len(noofbus)):
+    longitude = noofbus[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
+    latitude = noofbus[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+    print("Bus {} is at latitude {} and longitude {}".format(i, latitude, longitude))
