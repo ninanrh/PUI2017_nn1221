@@ -21,6 +21,10 @@ fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 for i in noofbus:
     longitude = i['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
     latitude = i['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
-    stop = i['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['StopPointName']
-    status = i['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance']
+    try: 
+        stop = i['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['StopPointName']
+        status = i['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance']
+    except KeyError:
+        stop = 'N/A'
+        status = 'N/A'
     fout.write("{},{},{},{}\n".format(longitude,latitude,stop,status))
