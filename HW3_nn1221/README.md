@@ -14,6 +14,7 @@ This assignment is to visualize the Central Limit Theorem by generating 100 samp
 - For each distribution I created random distribution for each distribution using `for loop` of the empty dictionary and `np.random` to generate the random distribution. For I set `sigma = 5` for Rayleigh distribution and `p = 0.5`for binomial distribution.
 - I plotted the sample means against sample size using code from [here](https://github.com/fedhere/PUI2017_fb55/blob/master/HW3_fb55/Assignment1.ipynb) with loop and described the phenomena I got from the plot, which is larger sample tends to get closer to population means.
 - I plotted the distribution of all means
+
 Overall I worked by myself and got help from stackoverflow for the technical stuff such as plotting and understanding the distribution.
 
 
@@ -31,5 +32,6 @@ This assignment is to interpret the z value and use it to reject or accept null 
 - I calculated the z value using `z = (tOldMean - tNewMean)/(tOldStdev/np.sqrt(len(df)))`
 - I compared the z value with z critical (which obtained from `st.norm.ppf(.95)`)
 - I rejected null hypothesis because z > zcritical, therefore new bus route has shorter commuting time.
+
 Overall I worked by myself and got help from stackoverflow to generate z critical
 
