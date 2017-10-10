@@ -5,7 +5,7 @@
 ## Assignment 2: Literature choices of statistical tests
 
 
-| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+| Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper | 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 | ANOVA	| 2, group condition | categorical | 1, no of students | continuous | 0 | N/A | 	Do conditions differed on baseline beliefs about other students' liking of orange juice? | baseline belief <= self belief | 0.05 | [Liking Food Less: The Impact of Social Influence on Food Liking Evaluations in Female Students](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048858) |
 | Multivariate linear regression	| 12, socioeconomic variables and victimization variables | continuous | 2, income outcomes and prestige level (conduct on different regression) | continuous | 0 | N/A | 	How strongly does victimization during childhood affects income and prestige level? | Young adults who experienced more victimization during their childhood would have same or more prestigious jobs and incomes relative to their counterparts with no victimization history. | 0.05 | [Effect of Childhood Victimization on Occupational Prestige and Income Trajectories](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115519) |
