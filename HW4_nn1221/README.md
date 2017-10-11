@@ -2,6 +2,11 @@
 
 ### Homework 4 consists of 4 assignments.
 
+## Assignment 1
+I reviewed Citibike project [Te Du td928](https://github.com/td928/PUI2017_td928/tree/master/HW3_td928).
+
+Role : In this assignment I worked alone.
+
 ## Assignment 2: Literature choices of statistical tests
 
 
@@ -14,6 +19,12 @@
   
 Role : In this assignment I worked alone.
 
-### GRADING: 
+## Assignment 3
+I reproduce the analysis of the Hard to Employ programs for NY using data for former prisoner who ever convicted felony.
 
-Your HW4\_\<netID\> README.md should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) a two-row tables like the one above explaining the use of two tests in papers published in PLOS One.
+Role : In this assignment I worked alone.
+
+## Assignment 4
+I did correlation test (Pearson’s test, Spearman’s test, K-S test) in Citibike data January 2017 and July 2017.
+
+Role : In this assignment I worked alone.
