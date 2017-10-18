@@ -18,4 +18,4 @@ Role : I worked alone
 
 Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
 
-Role : Mostly I worked alone, Vivian answerd my question about doing me the visualization 
+Role : Mostly I worked alone, Vivian answerd my question about doing the visualization 
