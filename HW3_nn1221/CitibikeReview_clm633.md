@@ -28,3 +28,5 @@ Again, from here on out, I'll look at the "IDEA" / analysis rather than the spec
 
 ### c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
 - I think we'd want to use a Z-test of proportion here. There is one caveat: we'd want to take the proportion of short distance on weekend / total rides vs. proportion of long distance on weekend / total rides. This is to make sure we have a correctly normalized proportion.
+
+# FBB very good! this should be very helpful to your classmate
