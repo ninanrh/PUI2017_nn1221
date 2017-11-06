@@ -17,6 +17,8 @@ Role : In this assignment I worked alone.
 | Logistic Regression	| 9,  socioeconomic variables | continuous | 1, low / high standart living index | dichotomous | 0 | N/A | 	What is the extent of reduction in MCH inequality across geographical, socioeconomic and gender sectors by using the data of demographic health surveys, held pre (2003–04), during (2007–08) and post (2012–13) NRHM implementation in Haryana, North India? | That rate difference score is the same or higher since post NHRM | 0.05 | [Effectiveness of Multiple-Strategy Community Intervention in Reducing Geographical, Socioeconomic and Gender Based Inequalities in Maternal and Child Health Outcomes in Haryana, India](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150537) |
 |||||||||
   
+  # FBB very good, and good that you chose papers of urban science relevance
+  
 Role : In this assignment I worked alone.
 
 ## Assignment 3
