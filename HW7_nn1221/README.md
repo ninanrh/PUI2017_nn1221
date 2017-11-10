@@ -9,4 +9,5 @@ In this project I worked alone.
 
 ### Assignment 2
 #### Follow Prof. Vo instructions
-Still in progress
+There 4 big tasks from Prof. Vo which are to familiarize SQL clauses, working with date/time and space, and combining those.
+I mainly follow my notes that I took from his lecture.
