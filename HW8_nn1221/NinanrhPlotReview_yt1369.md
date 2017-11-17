@@ -1,7 +1,7 @@
 ## Ninanrh Plot Review
 
 
-![Alt text](nina's_plot.png)
+![Alt text](HW8.png)
 
 Dear Nina,
 
