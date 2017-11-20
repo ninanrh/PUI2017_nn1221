@@ -17,13 +17,15 @@ Review:
 
 This is an amazing plot! I love it!
 
-CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
-The 
+CLARITY: 
+Title and axis lables are all clear. Appreciate that the year range is in the title. The caption is a bit long, would suggest seperating caption from rest of readme information.  
 
 Colorblindness: Using Color Oracle to check, only in the very rare type of color blindness (tritanopia) is information lost. The last two months of winter simply look white. To fix this you can change the lightest colors on the scale to slightly more pigmented, if possible. 
 
-ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
+ESTHETIC:
 
+Good esthetics. Colorscheme is evocative of winter.
 
-HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
+HONESTY: 
+Would like to know upper limit and lower limit of complaints. What is the scale for frequency? Plot seems honest. Maybe add an analytical conclusion to the caption. Any trends? 
 
