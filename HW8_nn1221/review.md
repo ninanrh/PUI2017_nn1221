@@ -24,8 +24,9 @@ Colorblindness: Using Color Oracle to check, only in the very rare type of color
 
 ESTHETIC:
 
-Good esthetics. Colorscheme is evocative of winter.
+Good esthetics. Colorscheme is evocative of winter. Easy to read and dechiper. 
 
 HONESTY: 
-Would like to know upper limit and lower limit of complaints. What is the scale for frequency? Plot seems honest. Maybe add an analytical conclusion to the caption. Any trends? 
+Would like to know upper limit and lower limit of complaints. What is the scale for frequency? Plot seems honest. 
+Maybe add an analytical conclusion to the caption. Any trends? Why are April and May included as winter by the city when there are so few heating complaints and in general that period is considered spring. Should it be recommended to remove them from the winter grouping? 
 
