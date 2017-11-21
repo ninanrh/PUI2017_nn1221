@@ -21,6 +21,8 @@ ________________________________________________________________________________
 # HW9_nn1221
 ## HW8_dcr346_review
 
+[Link](https://github.com/danachermesh/PUI2017_dcr346/tree/master/HW8_dcr346)
+
 ### CLARITY 
 > is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
 
@@ -37,4 +39,4 @@ ________________________________________________________________________________
 
 ### HONESTY
 > is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
-- The plot is reproducing the data honestly as the y axis shows and no distortion. 
+- The plot is reproducing the data honestly as the y axis shows and no distortion. Overall, it is a good plot!
