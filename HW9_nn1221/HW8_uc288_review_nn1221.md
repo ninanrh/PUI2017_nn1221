@@ -23,7 +23,8 @@ ________________________________________________________________________________
 
 There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288/blob/master/HW8_uc288/README.md).The first third plot is a map and the second one is bar plot to show the trend.
 
-### CLARITY `is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?`
+### CLARITY 
+> is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
 
 **1. NYC Refuse Waste Collected in 2016 (percentage)**
 
@@ -44,7 +45,7 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 
 
 ### ESTHETIC
-`beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?`
+> beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
 
 **1. NYC Refuse Waste Collected in 2016 (percentage)**
 
@@ -59,15 +60,16 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 - The color between each category can be distinguish well. 
 - The gradation color make me think that it has higher value, but actually it is not, because it only compare the year (nominal value), and also it is not consistent with the color in the label. I would suggest to add label to explain the meaning of each color, or change the color as the same or difference as long as not gradation.
 
-**HONESTY**: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
+### HONESTY
+> is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 **1. NYC Refuse Waste Collected in 2016 (percentage)**
 
 **2. NYC Paper Waste Collected in 2016 (percentage)**
 
 **3. NYC Metal, Glass, Plastic Waste Collected in 2016 (percentage)**
 
-- The plot is reproduce the data honestly. 
+- The plot is reproducing the data honestly as the label shows. 
 
 **4. trend of the waste collected per borough (also in percentages)**
-- The color between each category can be distinguish well. 
-- The gradation color make me think that it has higher value, but actually it is not, because it only compare the year (nominal value), and also it is not consistent with the color in the label. I would suggest to add label to explain the meaning of each color, or change the color as the same or difference as long as not gradation.
+- The plot also is reproducing the data honestly as the y axis shows. 
+
