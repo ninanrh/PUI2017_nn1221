@@ -24,7 +24,7 @@ ________________________________________________________________________________
 ### CLARITY 
 > is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
 
-- The plot is very easy to read and very clear.
+- The plot is very easy to read and very clear. The caption also give good insight about the plot.
 - One slight problem is the title said the data from 2015-2017, I was a bit confused because I assumed there was 2015, 2016, 2017 data, so it must be the sum of the data. I would add "Total" word in the title -> "Total Permit Issuance by Permit Type and Borough, years 2015-2017" so it won't be misleading.
 
 
