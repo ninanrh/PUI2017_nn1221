@@ -37,4 +37,4 @@ ________________________________________________________________________________
 
 ### HONESTY
 > is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
-- The plot is reproducing the data honestly as the y axis shows. 
+- The plot is reproducing the data honestly as the y axis shows and no distortion. 
