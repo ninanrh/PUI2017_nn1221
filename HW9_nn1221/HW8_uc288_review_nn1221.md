@@ -26,11 +26,7 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 ### CLARITY 
 > is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?
 
-**1. NYC Refuse Waste Collected in 2016 (percentage)**
-
-**2. NYC Paper Waste Collected in 2016 (percentage)**
-
-**3. NYC Metal, Glass, Plastic Waste Collected in 2016 (percentage)**
+**1. NYC Refuse Waste Collected in 2016 (percentage), NYC Paper Waste Collected in 2016 (percentage), NYC Metal, Glass, Plastic Waste Collected in 2016 (percentage)**
 
 - Each map is easy to read and informative as for comparison (lower and higher as shown by the color gradation) between one commmunity district to other district in each map.
 - One thing that might be confusing is the label showing the percentage, but not up to 100% because the percentage value is divided to the other map. I personaly think that the purpose of the gradation map is to make comparison whether a certain area is more or less than other area, and if it comes to percentage I would think that the map is talking about the percentage / share of a certain area to the whole area. So in this case, based on the plot title, I will think that it is talking about a percentage of certain community district about certain waste cartegory to the whole NYC ( percentage = no of waste category A in loc B / no of waste category A in the whole NYC) because people tend to see a map as one entities (it is dangerous if the reader only read one map and not with other map). I also suggest, beside the percentage based on location, it also can be better that the quantities divided by population or other normalization variable. 
@@ -47,11 +43,7 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 ### ESTHETIC
 > beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
 
-**1. NYC Refuse Waste Collected in 2016 (percentage)**
-
-**2. NYC Paper Waste Collected in 2016 (percentage)**
-
-**3. NYC Metal, Glass, Plastic Waste Collected in 2016 (percentage)**
+**1. NYC Refuse Waste Collected in 2016 (percentage), NYC Paper Waste Collected in 2016 (percentage), NYC Metal, Glass, Plastic Waste Collected in 2016 (percentage)**
 
 - The color looks fine. It explained the comparison whether certaina area has higher or lower value.
 - I check with color oracle, the only problem occured in Tritanopia color blindness which is very rare, because the lowest and second lowest value turn into light grey and white so the grey area (the NaN value) is distorting.
@@ -62,14 +54,11 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 
 ### HONESTY
 > is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
-**1. NYC Refuse Waste Collected in 2016 (percentage)**
 
-**2. NYC Paper Waste Collected in 2016 (percentage)**
-
-**3. NYC Metal, Glass, Plastic Waste Collected in 2016 (percentage)**
+**1. NYC Refuse Waste Collected in 2016 (percentage), NYC Paper Waste Collected in 2016 (percentage), NYC Metal, Glass, Plastic Waste Collected in 2016 (percentage)**
 
 - The plot is reproducing the data honestly as the label shows. 
 
-**4. trend of the waste collected per borough (also in percentages)**
+**2. trend of the waste collected per borough (also in percentages)**
 - The plot also is reproducing the data honestly as the y axis shows. 
 
