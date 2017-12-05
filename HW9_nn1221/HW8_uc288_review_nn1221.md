@@ -39,6 +39,7 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 - There is no label in x tick for each bar, which I assume is the year, but I don't know the order whether from left to the right or otherwise.
 - The label covers the Staten Island plot,so I can not see whether those bar reach the same peak or different peak.
 
+# FBB good. however it should be noted that these large separate plots do not make a visualization: if they were plotted side by side (think Tufte's small multiples) they would be a visualization. as it is its a set of four plots that are hard to coompare
 
 ### ESTHETIC
 > beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
@@ -47,6 +48,8 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 
 - The color looks fine. It explained the comparison whether certaina area has higher or lower value.
 - I check with color oracle, the only problem occured in Tritanopia color blindness which is very rare, because the lowest and second lowest value turn into light grey and white so the grey area (the NaN value) is distorting.
+
+# FBB good
 
 **4. trend of the waste collected per borough (also in percentages)**
 - The color between each category can be distinguish well. 
@@ -62,3 +65,4 @@ There are 4 plots that [Unisse made](https://github.com/unissechua/PUI2017_uc288
 **2. trend of the waste collected per borough (also in percentages)**
 - The plot also is reproducing the data honestly as the y axis shows. 
 
+10/10
