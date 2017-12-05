@@ -34,9 +34,16 @@ ________________________________________________________________________________
 > beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
 
 - The color looks fine and works on all color blindness type. Great job! I honestly like the color.
+
+# FBB the choice of colors, two tones od red and a yellow puts the yellow bar in a secondary position because the color is less vivid. Unless that is desired this is a bad esthetic choice
+
+# FBB rather than alphabetical sorting sorting by total number of permits would add information
+
 - The minor problem here is the x axis label rotation somehow is too much. There is some spaces left if you don't change the rotation and I think will works just fine. 
 
 
 ### HONESTY
 > is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 - The plot is reproducing the data honestly as the y axis shows and no distortion. Overall, it is a good plot!
+
+10/10
